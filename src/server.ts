@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import path from 'path';
 import rateLimit from 'express-rate-limit';
 import quoteRoutes from './routes/quoteRoutes';
+import ServerlessHttp from 'serverless-http';
 
 dotenv.config();
 
@@ -52,6 +53,12 @@ app.use((req: Request, res: Response) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
-});
+// Export handler for Vercel
+export const handler = ServerlessHttp(app);
+
+// Only run locally
+if (process.env.NODE_ENV !== "production") {
+  app.listen(3000, () => {
+    console.log("Local server running on http://localhost:3000");
+  });
+}
