@@ -1,0 +1,2502 @@
+[
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "life"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "success"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "creativity"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "learning"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "leadership"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "motivation"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "life"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "success"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "creativity"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "learning"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "leadership"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "motivation"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "life"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "success"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "creativity"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "learning"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "leadership"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "life"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "success"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "learning"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "leadership"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "life"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "wisdom"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "success"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "creativity"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "learning"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "leadership"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "motivation"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "life"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "wisdom"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "success"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "creativity"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "learning"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "leadership"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "life"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "success"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "learning"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "leadership"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "motivation"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "wisdom"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "success"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "creativity"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "learning"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "leadership"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "motivation"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "life"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "success"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "creativity"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "learning"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "leadership"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "life"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "success"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "creativity"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "learning"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "leadership"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "motivation"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "success"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "creativity"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "leadership"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "motivation"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "life"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "success"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "creativity"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "learning"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "leadership"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "life"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "wisdom"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "success"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "creativity"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "learning"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "leadership"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "motivation"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "success"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "creativity"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "leadership"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "motivation"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "life"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "success"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "creativity"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "learning"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "leadership"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "life"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "success"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "creativity"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "learning"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "leadership"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "life"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "learning"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "leadership"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "motivation"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "life"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "success"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "creativity"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "learning"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "motivation"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "life"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "success"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "creativity"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "learning"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "leadership"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "life"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "success"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "creativity"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "learning"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "leadership"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "motivation"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "life"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "success"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "creativity"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "learning"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "life"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "success"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "creativity"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "learning"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "leadership"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "motivation"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "life"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "success"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "creativity"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "learning"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "leadership"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "motivation"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "life"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "success"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "creativity"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "leadership"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "motivation"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "life"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "success"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "creativity"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "learning"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "leadership"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "life"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "creativity"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "learning"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "leadership"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "motivation"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "life"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "success"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "creativity"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "learning"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "leadership"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "motivation"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "life"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "success"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "creativity"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "learning"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "leadership"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "life"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "success"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "creativity"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "learning"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "leadership"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "life"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "success"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "creativity"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "learning"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "leadership"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "motivation"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "life"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "wisdom"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "success"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "creativity"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "learning"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "motivation"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "life"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "success"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "creativity"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "learning"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "leadership"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "motivation"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "life"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "success"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "learning"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "leadership"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "life"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "success"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "creativity"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "learning"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "leadership"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "motivation"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "life"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "success"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "creativity"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "learning"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "leadership"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "motivation"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "life"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "success"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "creativity"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "learning"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "leadership"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "motivation"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "wisdom"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "success"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "creativity"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "learning"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "leadership"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "motivation"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "life"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "success"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "creativity"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "learning"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "leadership"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "motivation"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "life"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "success"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "creativity"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "learning"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "leadership"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "life"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "success"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "creativity"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "leadership"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "motivation"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "life"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "wisdom"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "success"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "creativity"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "learning"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "leadership"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "motivation"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "life"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "wisdom"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "success"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "creativity"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "learning"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "leadership"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "motivation"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "life"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "success"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "creativity"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "learning"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "leadership"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "motivation"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "life"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "success"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "creativity"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "learning"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "leadership"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "life"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "wisdom"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "success"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "creativity"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "learning"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "leadership"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "life"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "success"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "creativity"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "learning"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "leadership"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "motivation"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "life"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "wisdom"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "success"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "creativity"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "learning"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "motivation"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "life"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "success"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "creativity"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "learning"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "leadership"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "motivation"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "life"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "success"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "creativity"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "learning"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "leadership"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "motivation"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "life"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "success"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "creativity"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "learning"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "leadership"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "life"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "success"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "creativity"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "learning"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "leadership"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "motivation"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "life"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "success"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "creativity"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "learning"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "leadership"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "motivation"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "life"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "success"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "creativity"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "learning"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "leadership"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "life"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "success"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "learning"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "leadership"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "life"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "wisdom"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "success"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "creativity"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "learning"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "leadership"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "motivation"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "life"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "wisdom"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "success"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "creativity"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "learning"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "leadership"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "motivation"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "life"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "success"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "learning"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "leadership"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "motivation"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "wisdom"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "success"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "creativity"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "learning"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "leadership"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "motivation"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "life"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "success"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "creativity"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "learning"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "leadership"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "life"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "success"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "creativity"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "learning"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "leadership"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "motivation"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "success"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "creativity"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "leadership"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "motivation"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "life"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "success"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "creativity"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "learning"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "leadership"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "life"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "wisdom"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "success"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "creativity"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "learning"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "leadership"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "motivation"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "success"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "creativity"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "learning"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "leadership"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "motivation"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "life"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "success"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha",
+    "category": "creativity"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "learning"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "leadership"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "life"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "success"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "creativity"
+  },
+  {
+    "quote": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "learning"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "leadership"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "life"
+  },
+  {
+    "quote": "The best way out is always through.",
+    "author": "Robert Frost",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "success"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "creativity"
+  },
+  {
+    "quote": "Don’t count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "learning"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "leadership"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "motivation"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh",
+    "category": "life"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "success"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "creativity"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius",
+    "category": "learning"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t wait. The time will never be just right.",
+    "author": "Napoleon Hill",
+    "category": "motivation"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "category": "life"
+  },
+  {
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Don’t let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "success"
+  },
+  {
+    "quote": "Little by little, one travels far.",
+    "author": "J.R.R. Tolkien",
+    "category": "creativity"
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "learning"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "leadership"
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "life"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Do small things with great love.",
+    "author": "Mother Teresa",
+    "category": "success"
+  },
+  {
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "creativity"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "learning"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "leadership"
+  },
+  {
+    "quote": "We don't see things as they are, we see them as we are.",
+    "author": "Anaïs Nin",
+    "category": "motivation"
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "category": "life"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "wisdom"
+  },
+  {
+    "quote": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass",
+    "category": "success"
+  },
+  {
+    "quote": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "category": "creativity"
+  },
+  {
+    "quote": "Courage is grace under pressure.",
+    "author": "Ernest Hemingway",
+    "category": "learning"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "leadership"
+  },
+  {
+    "quote": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "life"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "wisdom"
+  }
+]

@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quotana API - Wisdom Served Simple</title>
+    <style>
+      :root {
+        --primary: #6366f1;
+        --secondary: #a855f7;
+        --dark: #0f172a;
+        --light: #f8fafc;
+        --text-gray: #64748b;
+        --surface: #1e293b;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+      }
+
+      body {
+        background: var(--dark);
+        color: var(--light);
+        line-height: 1.6;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      header {
+        background: rgba(15, 23, 42, 0.95);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        padding: 1.5rem 0;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 100;
+      }
+
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+      .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .hero {
+        margin-top: 120px;
+        text-align: center;
+        padding: 4rem 0 2rem;
+      }
+
+      h1 {
+        font-size: 4rem;
+        font-weight: 800;
+        margin-bottom: 1rem;
+        background: linear-gradient(to right, var(--primary), var(--secondary));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      .hero p {
+        font-size: 1.25rem;
+        color: var(--text-gray);
+        max-width: 600px;
+        margin: 0 auto 2rem;
+      }
+
+      .section-title {
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+        color: var(--light);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .card {
+        background: rgba(30, 41, 59, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        border-radius: 1rem;
+        padding: 2rem;
+        margin-bottom: 2rem;
+        transition: transform 0.2s;
+      }
+
+      code {
+        color: rgb(201, 54, 54);
+      }
+
+      /* Playground Styles */
+      .playground-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        align-items: start; /* Prevent full height stretching if uneven */
+      }
+
+      /* Prevent grid blowout from pre tags */
+      .playground-grid > div {
+        min-width: 0;
+      }
+
+      @media (max-width: 768px) {
+        hero h1 {
+          font-size: 3rem;
+        }
+        .hero p {
+          font-size: 1rem;
+        }
+
+        .playground-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      .control-group {
+        margin-bottom: 1.5rem;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 0.5rem;
+        color: var(--text-gray);
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+
+      input {
+        width: 100%;
+        padding: 0.75rem;
+        background: var(--dark);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 0.5rem;
+        color: var(--light);
+        font-size: 1rem;
+        transition: all 0.2s;
+      }
+
+      input:focus {
+        outline: none;
+        border-color: var(--primary);
+        box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+      }
+
+      .btn {
+        display: inline-block;
+        background: var(--primary);
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border: none;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s;
+        width: 100%;
+      }
+
+      .btn:hover {
+        background: var(--secondary);
+        transform: translateY(-2px);
+      }
+
+      .btn-outline {
+        background: transparent;
+        border: 1px solid var(--primary);
+        color: var(--primary);
+      }
+
+      .btn-outline:hover {
+        background: rgba(99, 102, 241, 0.1);
+      }
+
+      .response-area {
+        background: #0f172a;
+        border-radius: 0.5rem;
+        padding: 1rem;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        height: 400px; /* Fixed height to prevent shifting */
+        min-height: 400px;
+        overflow-y: auto;
+        position: relative;
+      }
+
+      pre {
+        font-family: "Fira Code", monospace;
+        font-size: 0.9rem;
+        color: #a5b4fc;
+        white-space: pre-wrap; /* Handle wrapping */
+        word-wrap: break-word; /* Prevent overflow */
+      }
+
+      /* Method/Endpoint display */
+      .endpoint-display {
+        background: #1e293b;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        font-family: monospace;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        margin-bottom: 1rem;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+      }
+
+      .method {
+        background: var(--primary);
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 0.25rem;
+        font-weight: bold;
+        font-size: 0.875rem;
+      }
+
+      .url {
+        color: #ddaaff;
+      }
+
+      .footer {
+        margin-top: auto;
+        padding: 2rem 0;
+        text-align: center;
+        color: var(--text-gray);
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      a {
+        color: var(--primary);
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="container navbar">
+        <div style="font-weight: 800; font-size: 1.5rem">Quotana</div>
+        <a
+          href="https://github.com/dhirajaryaa/quotana"
+          target="_blank"
+          style="font-weight: 600; font-size: 1.1rem"
+          >⭐ Star on Github</a
+        >
+      </nav>
+    </header>
+
+    <div class="container">
+      <section class="hero">
+        <h1>Inspiration on Demand</h1>
+        <p>
+          A free, open-source RESTful API serving curated quotes for your
+          project.
+        </p>
+      </section>
+
+      <!-- Playground Section -->
+      <h2 class="section-title">⚡ Quick Try</h2>
+      <div class="card">
+        <div class="playground-grid">
+          <div>
+            <div class="control-group">
+              <label>Endpoint</label>
+              <select
+                id="endpointType"
+                class="btn btn-outline"
+                style="width: 100%; text-align: left; margin-bottom: 1rem"
+                onchange="toggleInputs()"
+              >
+                <option value="all">/api/quotes (Get All/Search)</option>
+                <option value="random">/api/quotes/random (Random)</option>
+              </select>
+            </div>
+
+            <div id="filterControls">
+              <div class="control-group">
+                <label>Search (Keyword, Author)</label>
+                <input
+                  type="text"
+                  id="searchInput"
+                  placeholder="e.g. life, jobs"
+                />
+              </div>
+
+              <div
+                style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem"
+              >
+                <div class="control-group">
+                  <label>Page</label>
+                  <input type="number" id="pageInput" value="1" min="1" />
+                </div>
+                <div class="control-group">
+                  <label>Limit</label>
+                  <input
+                    type="number"
+                    id="limitInput"
+                    value="1"
+                    min="1"
+                    max="100"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <button class="btn" onclick="testApi()">Send Request 🚀</button>
+
+            <div style="margin-top: 1.5rem">
+              <label>Request URL</label>
+              <div class="endpoint-display">
+                <span class="method">GET</span>
+                <span class="url" id="urlDisplay">/api/quotes</span>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <label>Response JSON</label>
+            <div class="response-area">
+              <pre id="responseJson">
+// Click 'Send Request' to see data...</pre
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h2 class="section-title">📚 Documentation</h2>
+      <div class="card">
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes</span>
+        </div>
+        <p style="margin-bottom: 1rem; color: var(--text-gray)">
+          Fetch paginated quotes.
+        </p>
+
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes?limit=5</span>
+        </div>
+        <p style="margin-bottom: 1rem; color: var(--text-gray)">
+          Get no of quote.
+        </p>
+
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes?search=life</span>
+        </div>
+        <p style="margin-bottom: 1rem; color: var(--text-gray)">
+          Get quotes containing the search term <code>life</code>.
+        </p>
+
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes?category=life</span>
+        </div>
+        <p style="margin-bottom: 1rem; color: var(--text-gray)">
+          Get quotes with category <code>life</code>.
+        </p>
+
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes?author=Steve+Jobs</span>
+        </div>
+        <p style="margin-bottom: 1rem; color: var(--text-gray)">
+          Get quotes with author <code>Steve Jobs</code>.
+        </p>
+
+        <div class="endpoint-display">
+          <span class="method">GET</span>
+          <span class="url">/api/quotes/random</span>
+        </div>
+        <p style="color: var(--text-gray)">Get a single random quote.</p>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <p>
+          Built with ❤️ by Dhiraj Arya.
+          <a target="_blank" href="https://github.com/dhirajaryaa/quotana"
+            >View on GitHub</a
+          >
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      function toggleInputs() {
+        const type = document.getElementById("endpointType").value;
+        const controls = document.getElementById("filterControls");
+        const urlDisplay = document.getElementById("urlDisplay");
+
+        if (type === "random") {
+          controls.style.display = "none";
+          urlDisplay.textContent = "/api/quotes/random";
+        } else {
+          controls.style.display = "block";
+          updateUrlDisplay();
+        }
+      }
+
+      function updateUrlDisplay() {
+        const type = document.getElementById("endpointType").value;
+        if (type === "random") return;
+
+        const search = document.getElementById("searchInput").value;
+        const page = document.getElementById("pageInput").value;
+        const limit = document.getElementById("limitInput").value;
+
+        let url = "/api/quotes";
+        const params = [];
+
+        if (search) params.push(`search=${encodeURIComponent(search)}`);
+        if (page > 1) params.push(`page=${page}`);
+        if (limit != 1) params.push(`limit=${limit}`);
+
+        if (params.length > 0) {
+          url += "?" + params.join("&");
+        }
+
+        document.getElementById("urlDisplay").textContent = url;
+      }
+
+      // Update URL as user types
+      ["searchInput", "pageInput", "limitInput"].forEach((id) => {
+        document.getElementById(id).addEventListener("input", updateUrlDisplay);
+      });
+
+      async function testApi() {
+        const urlText = document.getElementById("urlDisplay").textContent;
+        const responseArea = document.getElementById("responseJson");
+
+        responseArea.textContent = "Loading...";
+
+        try {
+          const res = await fetch(urlText);
+          const data = await res.json();
+          responseArea.textContent = JSON.stringify(data, null, 2);
+        } catch (err) {
+          responseArea.textContent = "Error: " + err.message;
+        }
+      }
+    </script>
+  </body>
+</html>
