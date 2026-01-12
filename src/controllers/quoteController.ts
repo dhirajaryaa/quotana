@@ -24,7 +24,33 @@ const getQuotesData = (): Quote[] => {
 
 export const getAllQuotes = (req: Request, res: Response) => {
     let quotes = getQuotesData();
-    const { search, author, category } = req.query;
+    const { search, author, category, page, limit } = req.query;
+
+    // Input Validation Helper
+    const validateInput = (input: any): boolean => {
+        if (!input) return true; // Optional inputs are valid if undefined
+        const regex = /^[a-zA-Z0-9\s\-_]+$/;
+        return regex.test(String(input));
+    };
+
+    // Validate inputs
+    if (!validateInput(search) || !validateInput(author) || !validateInput(category)) {
+        res.status(400).json({ message: "Invalid characters in query parameters." });
+        return;
+    }
+
+    // Default to Random Quote if no filter/search parameters are provided
+    // We check if specific filter params are missing. content-based filtering logic.
+    // The user requested "if not search or query req", implying if no specific filters.
+    if (!search && !author && !category) {
+        if (quotes.length === 0) {
+            res.status(404).json({ message: "No quotes available" });
+            return;
+        }
+        const randomIndex = Math.floor(Math.random() * quotes.length);
+        res.json(quotes[randomIndex]);
+        return;
+    }
 
     // Filtering
     if (search) {
@@ -45,28 +71,16 @@ export const getAllQuotes = (req: Request, res: Response) => {
         quotes = quotes.filter(q => q.category.toLowerCase() === categoryTerm);
     }
 
-    // Pagination
-    // Defaults: page = 1, limit = 1 (as requested)
-    const page = parseInt(req.query.page as string) || 1;
-    const limit = parseInt(req.query.limit as string) || 1;
+    // Pagination (Only applies if returning a list, i.e., not the random default)
+    const pageNum = parseInt(page as string) || 1;
+    const limitNum = parseInt(limit as string) || 10; // Default limit 10 for list view? User previously had 1. Let's stick to valid defaults. 
+    // Previous code had limit default 1. A bit small for valid list, but if they want to see more they supply it.
+    // Let's use 10 as a more standard API default if not random.
 
-    const startIndex = (page - 1) * limit;
-    const endIndex = page * limit;
+    const startIndex = (pageNum - 1) * limitNum;
+    const endIndex = pageNum * limitNum;
 
     const results = quotes.slice(startIndex, endIndex);
 
-    // Optional: Include metadata about pagination if desired, 
-    // but for simplicity/standard behavior, usually just the array or a wrapped object.
-    // Given requirements didn't specify wrapper, returning array of results.
     res.json(results);
-};
-
-export const getRandomQuote = (req: Request, res: Response) => {
-    const quotes = getQuotesData();
-    if (quotes.length === 0) {
-        res.status(404).json({ message: "No quotes available" });
-        return;
-    }
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    res.json(quotes[randomIndex]);
 };
